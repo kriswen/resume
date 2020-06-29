@@ -1,0 +1,47 @@
+Kris Wen									      Newark, CA, 94560
+          			wen.shaoju@gmail.com
+  LinkedIn: www.linkedin.com/in/kris-wen
+WORK EXPERIENCE
+Management Information Systems Specialist, SIIG, Inc. | Fremont, CA	              1/2020 – Current 
+•	Maintain all the responsibilities held under E-commerce Platform Specialist title.
+•	Design, create, and improve various Tableau reports for business operations and decisions.
+•	Design, develop, and improve tools and automation procedures to optimize company operations.
+
+E-Commerce Platform Specialist, SIIG, Inc. | Fremont, CA	            			           8/2017 – 12/2019
+•	Migrated, Customized, and continuously improved e-commerce websites in Magento platform.
+•	Setup Integrations between multi-channel IMS with online stores, accounting systems, and Tableau.
+•	Created various scripts and scheduled processes in replacement of manual interaction.
+•	Implemented scheduled jobs for data I/O, data transformation, and update to various platforms. 
+•	Setup API calls for synchronized data from Amazon to our internal database for reporting purpose.
+•	Identified and improved e-commerce operation procedures and resolve operation issues.
+•	Deployed Android App to simulate the warehouse picking verification process.
+•	Provided prompt and knowledgeable internal IT supports (hardware/software) across all departments.
+
+IT Support Specialist, Worldwide Lighting Corp | Hayward, CA		              8/2014 – 8/2017
+•	Designed, created, and maintained automation processes in replacement of daily manual processes.
+•	Configured company’s IT infrastructure and troubleshoot both hardware and software related issues.
+•	Provided on-site support to resolve any technical issues from technical and non-technical personnel.
+•	Setup and maintained automatic backup schedules for critical data.
+
+E-commerce Specialist, Worldwide Lighting Corp | Hayward, CA	              8/ 2014 – 8/2017
+•	Listed, maintained, and optimized over 1500 product data for best SEO performance.
+•	Accountable for building and managing relationships and data integrity with online partners.
+•	Analyzed sales performance and forecast inventory for re-order.
+
+SKILLS
+Technical Skills: 
+●SQL ●PHP ●HTML ●CSS ●JavaScript ●C++ ●C# ●API ●SSIS ●VBA Script ●JAVA ●Android ●CDN ●SEO ●EDI 
+● Automation ●Google Apps Script ●Hardware/Software Troubleshooting ●Data Analysis ●eConnect
+
+Technologies/Environments: 
+●Magento ●Tableau ●MS SQL Server ●SQL Server Management Studio ●Microsoft Azure ●Cloudflare CDN 
+●G-Suite Admin ●cPanel & WHM ●Putty ●WordPress ●Shopify ●Windows ●Linux ●FTP ●QuickBooks ●Dynamics ERP ●Google Analytics ●Ecomdash ●Mailchimp ●HubSpot ●Spiceworks
+
+EDUACTION
+
+
+Master of Science, Computer Science,									      2014
+California State University - East Bay | Hayward, CA
+Bachelor of Science, Computer Science,								            	      2011
+California State University - East Bay | Hayward, CA
+Minor: Mathematics
